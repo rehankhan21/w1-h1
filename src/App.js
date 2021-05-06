@@ -12,7 +12,7 @@ function App() {
         <SideBar />
         <Reviews num="420" />
         <AverageRating rating="4.6"/>
-        <SentimentAnalysis num="999 888"/>
+        <SentimentAnalysis num1="999" num2="888" num3="777"/>
         <WebsiteVisitors num="821"/>
       </div>
     </div>
